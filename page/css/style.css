@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
+body{
+    font-family: 'Gugi', cursive;
+    
+    
+}
+section#inicio{
+    
+    background-image: url("https://as2.ftcdn.net/v2/jpg/03/67/77/59/1000_F_367775957_UMmb63PtKFsFUG0E6ikyKSIsVVA5GW2b.jpg");
+background-repeat: no-repeat;
+
+}
+#inicio{
+  display: flex;
+  align-items: center;
+}
